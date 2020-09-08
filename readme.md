@@ -24,12 +24,14 @@ You need to install python if not allready installed
 ## Customizing
 Add folder_name and and associated file extensions in bellow format in the config.json
 
-```{
+```
+{
 	"folder_name_1": ["extension1", "extension2"],
 	"folder_name_2": ["extension1", "extension2"],
 	"folder_name_3": ["extension1", "extension2"],
 	"folder_name_4": ["extension1", "extension2"]
-}```
+}
+```
 
 N.B: Each entry must be seperated by comma
 
