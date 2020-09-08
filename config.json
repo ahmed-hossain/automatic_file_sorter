@@ -1,0 +1,1 @@
+{"Images": ["jpg", "jpeg", "png", "webp", "gif"], "Videos": ["mp4"], "Music": ["mp3", "ogg"], "Pdfs": ["pdf"], "Documents": ["docx", "doc", "xlsx", "xls", "pptx", "ppt", "odt"], "Softwares": ["msi", "exe", "deb"], "Compressed": ["zip", "rar", "7z", "tar.xz"], "Vectors": ["svg", "eps"], "Illustrator": ["ai"], "Photoshop": ["ps"], "C": ["c"]}
